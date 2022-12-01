@@ -11,15 +11,6 @@ public class RegistrationInfo {
     private final String phone;
     private final String city;
 
-//    public entities.RegistrationInfo(String name, String phone, String city) {
-//        this.name = name;
-//        this.phone = phone;
-//        this.city = city;
-//    }
-//
-//    public entities.RegistrationInfo() {
-//    }
-
     public String getName() {
         return name;
     }
@@ -32,7 +23,4 @@ public class RegistrationInfo {
         return city;
     }
 
-//    public String getDate() {
-//        return date;
-//    }
 }
